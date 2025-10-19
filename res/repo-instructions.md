@@ -1,8 +1,3 @@
----
-title: "Untitled"
-format: html
----
-
 Perfect — this is an excellent plan for a **cross-platform, structured, agent-friendly system-administration repository**.
 Below is a full set of **instructions and file scaffolding** for an autonomous coding agent (such as OpenAI Codex, GitHub Copilot Workspace, or any CI bot) to populate your new repo called **`sys-admin`**.
 
