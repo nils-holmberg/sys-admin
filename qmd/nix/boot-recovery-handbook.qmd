@@ -1,0 +1,17 @@
+---
+title: "Boot Recovery Handbook"
+format: html
+---
+
+## Overview
+This Quarto document summarizes recovery strategies for UEFI + LUKS + LVM
+dual-boot systems (Debian/Windows).
+
+Include reference tables from `tables/boot-failure-categories.md`
+and scripts from `src/nix/grub-restore.sh`.
+
+To render:
+```bash
+quarto render qmd/nix/boot-recovery-handbook.qmd --to html
+```
+

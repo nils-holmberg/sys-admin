@@ -1,0 +1,11 @@
+# Common ignores
+*.swp
+*.log
+*.tmp
+*.bak
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+tmp/
+web/.quarto/
+web/_site/
