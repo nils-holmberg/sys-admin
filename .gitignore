@@ -1,3 +1,15 @@
+# folder content
+log/*
+qmd/*
+src/*
+tmp/*
+vid/*
+
+# keep empty dir
+!log/.gitkeep
+!src/.gitkeep
+!tmp/.gitkeep
+
 # Common ignores
 *.swp
 *.log
@@ -6,8 +18,8 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-tmp/
-!tmp/
+#tmp/
+#!tmp/
 !tmp/readme.md
 web/.quarto/
 web/_site/
